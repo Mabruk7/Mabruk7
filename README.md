@@ -1,10 +1,10 @@
 Hi 👋 My name is Osman Mab-ruk Bawa
 =============================
 
-software engineering student
+Software engineering
 ----------------------------
 
-I am a student of software engineering at Alx Africa and am currently learning several programming languages including C, Python, JavaScript, HTML, and CSS. As a student, I am focused on developing my skills in software development and building a strong foundation in these programming languages. My studies involve learning to write code, designing and implementing algorithms, and developing applications and software systems. Ultimately, my goal is to become a skilled and proficient software engineer.
+I am a software engineer with knowledge in several programming languages including C, Python, JavaScript, HTML, and CSS. As a student, I am focused on developing my skills in software development and building a strong foundation in these programming languages. My studies involve learning to write code, designing and implementing algorithms, and developing applications and software systems. Ultimately, my goal is to become a skilled and proficient software engineer.
 
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [Github](http://github.com/mabruk7)
