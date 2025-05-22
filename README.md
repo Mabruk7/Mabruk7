@@ -4,7 +4,7 @@ Hi 👋 My name is Osman Mab-ruk Bawa
 Software engineering
 ----------------------------
 
-I am a software engineer with knowledge in several programming languages including C, Python, JavaScript, HTML, and CSS. As a student, I am focused on developing my skills in software development and building a strong foundation in these programming languages. My studies involve learning to write code, designing and implementing algorithms, and developing applications and software systems. Ultimately, my goal is to become a skilled and proficient software engineer.
+I'm a software engineer with knowledge in several programming languages including C, Python, JavaScript, HTML, and CSS. As a student, I am focused on developing my skills in software development and building a strong foundation in these programming languages. My studies involve learning to write code, designing and implementing algorithms, and developing applications and software systems. Ultimately, my goal is to become a skilled and proficient software engineer.
 
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [Github](http://github.com/mabruk7)
