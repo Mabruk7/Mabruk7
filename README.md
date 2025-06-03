@@ -15,4 +15,5 @@ I'm a software engineer with knowledge in several programming languages includin
 * ⚡  I'm secretlty.
 
 <a href="https://www.github.com/mabruk7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mabruk7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/mab_ruk1"
+src="https://img.shields.io/github/followers/mabruk7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/mab_ruk1"
