@@ -39,5 +39,5 @@ I'm a software engineer with knowledge in several programming languages includin
 <hr>
 
 <a href="https://www.github.com/mabruk7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mabruk7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.twitter.com/mab_ruk1"
+src="https://img.shields.io/github/followers/mabruk7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<a href="https://www.x.com/mab_ruk1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/mab_ruk1?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
